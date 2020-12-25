@@ -1,0 +1,52 @@
+h1
+{
+   font-size: 80px;
+   font-family: 'Bebas Neue', cursive;
+   color: white; 
+}
+
+.heading_div
+{
+   float: none;
+   background: pink;
+   padding: 10px;
+   border-radius: 20px;
+   color: rgb(54, 54, 170);
+   box-shadow: 10px 10px 10px rgba(248, 2, 195, 0.836);
+   font-size: 30px;
+   margin-bottom: 10px;
+   font-family: 'Lobster', cursive;
+}
+
+.heading_div2
+{
+   font-size: 18px;
+   
+}
+
+.result_para_tag
+{
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: 7px 7px 7px rgba(248, 2, 195, 0.836);
+}
+
+.copyright_footer
+{
+   position: fixed;
+   color: white;
+   bottom: 0;
+   width: 100%;
+   font-family: 'Lobster', cursive;
+   font-size: 40px;
+   line-height: 3;
+   text-align: center;
+}
+
+canvas
+{
+   border: 5px solid white;
+   border-radius: 20px;
+   margin-top: 170px;
+}
+
